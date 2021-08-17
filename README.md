@@ -34,11 +34,12 @@ Algumas funcionalidades:
   9. Possibilidade de criar ou visualizar acordos/necessidades com a escola e enxergar sua timeline.
 
 <b>Para o aluno:</b>
-  1. Recebimento de deveres de casa, trabalho e ou conteúdo vindo do Google Workspace
-  2. Integração da agenda com Google Workspace
-  3. Recebimento de comunicação da escola
-  4. Recebimento de acordos realizados mediante uma necessidade do aluno ou família
-  5. Visualização somente das informações pertinentes ao seu interesse e/ou definido pelo responsável e escola.
+  1. Recebimento de deveres de casa, trabalho e/ou conteúdo (pode-se integrar com Google Workspace)
+  2. Controle de atividades pendentes e realizadas
+  3. Integração da agenda com Google Workspace
+  4. Recebimento de comunicação da escola
+  5. Recebimento de acordos realizados mediante uma necessidade do aluno ou família
+  6. Visualização somente das informações pertinentes ao seu interesse e/ou definido pelo responsável e escola.
 
 
 
